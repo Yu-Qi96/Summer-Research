@@ -17,7 +17,7 @@ Polymers are made up of monomers covalently linked to a chain, similar to beads/
 * In biological systems, networks can be made of proteins
 * Proteins are polymers made of building blocks (amino acids)
 <p align="center">
-  <img src="https://github.com/Chameleon-7/Summer-Research/blob/master/linear-vs-branched.png" width="300" height="100" title="simple">
+  <img src="https://github.com/Chameleon-7/Summer-Research/blob/master/linear-vs-branched.png" width="300" height="200" title="simple">
 </p>
 <p align="center">
   Fig. 2 Linear polymer (left) and branched polymer (right)
@@ -29,4 +29,11 @@ Polymers are made up of monomers covalently linked to a chain, similar to beads/
 
 <p align="center">
      Different color indiciates different chemical properties
+</p>
+
+### Objectives ###
+* We wanted to investigate the role of protein sequence on its size.
+* Specifically, how does the end to end distance (R) depend on a given protein sequence?
+<p align="center">
+  <img src="https://github.com/Chameleon-7/Summer-Research/blob/master/Tail-Effect.png" width="300" height="300" title="simple">
 </p>
